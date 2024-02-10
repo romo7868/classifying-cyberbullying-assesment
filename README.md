@@ -1,2 +1,3 @@
 # classifying-cyberbullying-assesment
-Materials for the final assignment of the Introduction to Deep Learning course
+
+This repository contains materials for the final assignment of the Introduction to Deep Learning course.
